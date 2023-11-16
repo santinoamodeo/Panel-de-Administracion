@@ -1,2 +1,2 @@
 # Panel-de-Administracion
-https://elegant-crisp-8045d1.netlify.app/
+https://chimerical-centaur-734491.netlify.app
